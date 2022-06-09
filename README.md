@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdgg97
-- 👀 I’m interested in embedded software"
-- 🌱 I’m currently learning Software Tests.
+- 👀 I’m interested in software test development"
+- 🌱 I’m currently learning test procedures.
 - 💞️ I’m looking to collaborate on a university and automotive companies
 - 📫 How to reach me mustafadenizg97@gmail.com
 
