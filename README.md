@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdgg97
-- 👀 I’m interested in software test development"
+- 👀 I’m interested in software test development
 - 🌱 I’m currently learning test procedures.
-- 💞️ I’m looking to collaborate on a university and automotive companies
+- 💞️ I’m looking to collaborate with software companies.
 - 📫 How to reach me mustafadenizg97@gmail.com
 
 <!---
