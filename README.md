@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mdgg97
-- 👀 I’m interested in software test development
+- 👀 I’m interested in hardware and software test development
 - 🌱 I’m currently learning test procedures.
-- 💞️ I’m looking to collaborate with software companies.
-- 📫 How to reach me mustafadenizg97@gmail.com
+- 💞️ I’m looking to collaborate with hardware companies.
+- 📫 How to reach me mustafadenizgokcan48@gmail.com
 
 <!---
 mdgg97/mdgg97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
